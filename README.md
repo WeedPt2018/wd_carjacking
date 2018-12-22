@@ -1,5 +1,6 @@
 # wd_carjacking
-wd_carjacking
+
+My Discord:https://discord.gg/qmFKfcC
 
 # Instalaçao PT
 **Evita os players roubarem carros de NPC**
